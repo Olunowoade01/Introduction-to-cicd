@@ -1,0 +1,24 @@
+{
+  "name": "introduction-to-cicd",
+  "version": "1.0.0",
+  "description": "Introduction to continuous Integration and continuous Deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olunowoade01/Introduction-to-cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Olunowoade01/Introduction-to-cicd/issues"
+  },
+  "homepage": "https://github.com/Olunowoade01/Introduction-to-cicd#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
