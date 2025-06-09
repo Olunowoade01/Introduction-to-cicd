@@ -4,9 +4,7 @@
   "description": "Introduction to continuous Integration and continuous Deployment",
   "main": "index.js",
   "scripts": {
-    "scripts": {
-  "test": "echo \"No tests specified\" && exit 0"
-}
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "repository": {
     "type": "git",
